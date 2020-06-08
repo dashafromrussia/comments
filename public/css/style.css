@@ -1,0 +1,46 @@
+* {
+  font-family: sans-serif;
+}
+
+/*comment*/
+ #name
+ {
+   width: 100px;
+   height: 40px;
+   margin-bottom: 40px;
+ }
+
+ #comment{
+  width: 200px;
+  height: 80px;
+  margin-bottom: 40px;
+}
+
+ #send
+{
+  width: 100px;
+
+}
+
+ .image
+ {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+ }
+
+ #com
+ {
+  display:block;
+  margin-top: 60px;
+ }
+
+.block
+{
+  display:flex;
+}
+
+#file
+{
+  margin:30px 0;
+}
